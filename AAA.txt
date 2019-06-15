@@ -1,5 +1,5 @@
 
-zero line added
+zero line added into branch New
 first line
 second line
 ^X
