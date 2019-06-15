@@ -1,1 +1,2 @@
-checking merging
+first line
+second line
