@@ -1,7 +1,13 @@
 
 
 
-checking merging
-Zero line added
-changes for Branch AAA
+
+Checking merging
+Zero line added for merged file
+first line
+second line
 third line
+
+The End
+
+
