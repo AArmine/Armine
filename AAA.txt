@@ -1,2 +1,6 @@
+
+zero line added
 first line
 second line
+^X
+
