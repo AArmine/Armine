@@ -1,0 +1,13 @@
+
+
+
+
+Checking merging
+Zero line added for merged file
+first line
+second line
+third line
+
+The End
+
+
