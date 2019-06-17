@@ -1,3 +1,5 @@
 2nd file for merging.
 Checkout command is working for untracked changes.
-Commitedd changes is possible wit revert command.
+Commited changes is possible to remove with command revert.
+Commited changes is possible to remove with command reset --hard, petq e nshes ayn 
+commiti anun@, minchev vor@ vor uzum es jnji.  
