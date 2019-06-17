@@ -1,1 +1,3 @@
 2nd file for merging
+checkout command is working for untracked changes.
+
