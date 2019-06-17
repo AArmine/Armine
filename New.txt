@@ -3,3 +3,4 @@ Checkout command is working for untracked changes.
 Commited changes is possible to remove with command revert.
 Commited changes is possible to remove with command reset --hard, petq e nshes ayn 
 commiti anun@, minchev vor@ vor uzum es jnji.  
+Addition for checking command 'commit --amend'
